@@ -10,7 +10,7 @@
     6- functions
 
 
-- Author 
+Author 
 
-Manuel Freijomil
+-Manuel Freijomil
 
