@@ -1,7 +1,7 @@
 # freijomil-m-basd-2021-class-4
 
 
-6 exercises :
+- 6 exercises :
     - variables and operators
     - strings
     - arrays
