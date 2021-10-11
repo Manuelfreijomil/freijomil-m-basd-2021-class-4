@@ -12,6 +12,7 @@ Using js, solve a list of suggested exercises provided by Radium Rocket. Each ex
 - Part B
 Correct previous week asignment taking into account the tutor's suggested corrections.
 
+
 Author 
 
 - Manuel Freijomil
